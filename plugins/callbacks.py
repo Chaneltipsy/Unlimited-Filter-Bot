@@ -47,7 +47,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("join groupnamoi", url="https://freetipsgame"),
+                    InlineKeyboardButton("join group amoi", url="https://freetipsgame"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
