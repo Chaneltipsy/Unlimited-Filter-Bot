@@ -2,62 +2,62 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+Saya adalah Amoi Casino 24jam di group Anda!
+Amoi adalah Robot 24jam di group Anda :)
 
-See <i>/help</i> for commands and more details.</b>
+tulis<i>/help</i> untuk arahan lebih lanjut.</b>
 """
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<i>Tambah Amoi dalam Group anda untuk 24jam menjaga group anda :)</i>
 
 
-<b>Basic Commands;</b>
+<b>Arahan Amoi;</b>
 
-/start - Check if I'm alive!
-/help - Command help
-/about - Something about me!
+/start - Semak kesihatan amoi!
+/help - Pertolongan Amoi
+/about - Maklumat Amoi!
 
 
-<b>Filter Commands;</b>
+<b>Arahan Amoi;</b>
 
-<code>/add name reply</code>  -  Add filter for name
+<code>/add name reply</code>  -  tambah arahan untuk amoi
 
-<code>/del name</code>  -  Delete filter
+<code>/del name</code>  -  Padam Arahan Amoi
 
-<code>/delall</code>  -  Delete entire filters (Group Owner Only!)
+<code>/delall</code>  -  Padam Semua Arahan Amoi (Admin group sahaja!)
 
-<code>/viewfilters</code>  -  List all filters in chat
+<code>/viewfilters</code>  -  Senarai Arahan amoi
 
 
 <b>Connection Commands;</b>
 
-<code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
-<code>/connect</code> in groups.
+<code>/connect groupid</code>  -  Sambung Amoi ke group untuk pm tepi. Juga boleh macam ni,
+<code>/connect</code> dalam groups.
 
-<code>/connections</code>  -  Manage your connections.
+<code>/connections</code>  -  Semak hubungan amoi dalam group.
 
 
 <b>Extras;</b>
 
-/status  -  Shows current status of your bot (Auth User Only)
+/status  -  Semak keadaan semasa amoi (@nuraishah89 Only)
 
-/id  -  Shows ID information
+/id  -  Tunjuk id anda
 
-<code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
+<code>/info userid</code>  -  tunjuk maklumat scammer. Use <code>/info</code> balas mesej dekat scammer untuk lebih info!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @freetipsgame</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>Nama Saya : Amoi 24jam Robot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Master :</b> @nuraishah89    
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Kegemaran :</b> You topup i suka
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Group support :</b> <a href='https://t.me/freetipsgame</a> 
 
 """
