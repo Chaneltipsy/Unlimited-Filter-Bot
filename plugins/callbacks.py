@@ -70,7 +70,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "group amoi", url="https://t.me/freetipsgame")
+                        "Amoi Master", url="https://t.me/freetipsgame")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
